@@ -8,7 +8,6 @@
   cursor: pointer;
   margin-right: 8px;
   transition: opacity 0.15s;
-
 }
 
 .sub-button:hover {
@@ -30,8 +29,7 @@
   width: 62px;
   cursor: pointer;
   margin-right: 8px;
-  transition: background-color 1s,
-    color 1s;
+  transition: background-color 1s, color 1s;
 }
 
 .join-button:hover {
@@ -52,7 +50,9 @@
   border-radius: 17.5px;
   font-weight: bold;
   font-size: 15px;
-  box-shadow: 10px 10px 10px darkgrey;
+  transition: box-shadow 0.15s;
 }
 
-.tweet-button:hover {}
+.tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
