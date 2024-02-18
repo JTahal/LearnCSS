@@ -41,3 +41,8 @@ p {
   text-align: center;
   font-size: 15px;
 }
+
+.span-example:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
