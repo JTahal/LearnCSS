@@ -1,0 +1,53 @@
+.font-tah {
+  font-size: 40px;
+  font-family: Tahoma;
+  font-weight: bold;
+}
+
+.deals {
+  font-size: 40px;
+  font-family: Arial;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.sales {
+  font-family: Arial;
+  font-size: 25px;
+  color: red;
+  font-style: italic;
+  margin-top: 10px;
+}
+
+.ver1 {
+  font-family: Verdana;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+.ver2 {
+  font-family: Verdana;
+  color: gray;
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.ver3 {
+  font-family: Verdana;
+  font-size: 18px;
+  width: 330px;
+  font-weight: 520;
+}
+
+.button {
+  font-family: verdana;
+  font-size: 17px;
+  color: white;
+  background-color: green;
+  border: none;
+  padding: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 10px;
+}
